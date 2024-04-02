@@ -12,9 +12,8 @@ Problem 1 : 8
 
 Problem 2 : 8 
 
-	Comment: shouldn't n be dimension 4?
-
 Problem 3 : 8
+        Comment: shouldn't n be dimension 4?
 
 Problem 4 : 16
 
