@@ -1,0 +1,29 @@
+Total: 108
+
+	Comment: good job!
+
+
+
+Q1: 4
+
+Q2: 
+
+Problem 1 : 8
+
+Problem 2 : 8 
+
+	Comment: shouldn't n be dimension 4?
+
+Problem 3 : 8
+
+Problem 4 : 16
+
+Problem 5 : 16 
+
+Problem 6 : 20 + 8 (extra credit) 
+
+Q3:
+
+Problem 7 : 10
+
+Problem 8 : 10
